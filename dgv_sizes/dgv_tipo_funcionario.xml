@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <dgv_tipo_funcionario>
+    <name>Column2</name>
+    <width>150</width>
+    <index>0</index>
+  </dgv_tipo_funcionario>
+  <dgv_tipo_funcionario>
+    <name>Column1</name>
+    <width>100</width>
+    <index>1</index>
+  </dgv_tipo_funcionario>
+  <dgv_tipo_funcionario>
+    <name>Column4</name>
+    <width>350</width>
+    <index>2</index>
+  </dgv_tipo_funcionario>
+  <dgv_tipo_funcionario>
+    <name>Column6</name>
+    <width>100</width>
+    <index>3</index>
+  </dgv_tipo_funcionario>
+</DocumentElement>

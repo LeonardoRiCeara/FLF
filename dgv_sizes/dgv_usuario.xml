@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <dgv_usuario>
+    <name>Column2</name>
+    <width>150</width>
+    <index>0</index>
+  </dgv_usuario>
+  <dgv_usuario>
+    <name>Column1</name>
+    <width>100</width>
+    <index>1</index>
+  </dgv_usuario>
+  <dgv_usuario>
+    <name>Column4</name>
+    <width>350</width>
+    <index>2</index>
+  </dgv_usuario>
+  <dgv_usuario>
+    <name>Column3</name>
+    <width>100</width>
+    <index>3</index>
+  </dgv_usuario>
+  <dgv_usuario>
+    <name>Column6</name>
+    <width>100</width>
+    <index>4</index>
+  </dgv_usuario>
+</DocumentElement>
